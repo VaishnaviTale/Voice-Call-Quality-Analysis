@@ -8,16 +8,16 @@ This catalog provides Customers Feedback Captured using TRAI MyCAll App. Custome
 National Data Sharing and Accessibility Policy (NDSAP)
  
 # Contributor:
-Ministry of Communications
-Department of Telecommunications (DOT)
-Telecom Regulatory Authority of India (TRAI)
+- Ministry of Communications
+- Department of Telecommunications (DOT)
+- Telecom Regulatory Authority of India (TRAI)
  
 # Domain:
 Open Government Data (OGD) Platform India
 
  
-# Published On:
+### Published On:
 01/12/2017
  
-# Updated On:
+### Updated On:
 01/05/2024
